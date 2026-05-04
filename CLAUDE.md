@@ -12,6 +12,8 @@ Polymarket is a prediction market platform where traders bet on real-world event
 
 Dylan Novaks — first coding project, learning Python from scratch. Claude Code is the co-pilot. The approach is: Claude writes code, Dylan reads it, asks questions, and builds understanding over time.
 
+Dylan has zero prior coding experience and is using this project to learn Python; explanations should err toward more rather than less, and the python-learning-coach skill should be invoked when introducing new concepts.
+
 ## Repository
 
 GitHub: https://github.com/novaksdylan-sketch/polymarket-analysis
